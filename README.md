@@ -1,2 +1,2 @@
 # Mariam
-This is salaudeen Maryam...a programmo
+This is salaudeen Maryam...a programmer
